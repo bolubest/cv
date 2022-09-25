@@ -44,7 +44,7 @@ h3  {
 
 }
 hr  {
-  border-style: solid;
+  border-style: none;
   border-top-style: dotted;
   border-color: #66BFBF;
   border-width: 20px;
@@ -117,4 +117,7 @@ hr  {
 }
 .og {
   color: white;
+}
+.contact-me {
+  margin-bottom: 50px;
 }
